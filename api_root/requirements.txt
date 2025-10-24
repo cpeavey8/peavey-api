@@ -1,0 +1,7 @@
+azure_storage==0.37.0
+fastapi==0.119.1
+icecream==2.1.8
+pydantic==2.12.3
+pymongo==4.15.3
+python_bcrypt==0.3.2
+azure-functions==1.15.0

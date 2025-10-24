@@ -1,0 +1,6 @@
+pyproject.toml
+data/my_apiproject.egg-info/PKG-INFO
+data/my_apiproject.egg-info/SOURCES.txt
+data/my_apiproject.egg-info/dependency_links.txt
+data/my_apiproject.egg-info/requires.txt
+data/my_apiproject.egg-info/top_level.txt

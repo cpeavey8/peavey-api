@@ -1,0 +1,7 @@
+Metadata-Version: 2.4
+Name: my-apiproject
+Version: 0.1.0
+Requires-Dist: pydantic
+Requires-Dist: pymongo
+Requires-Dist: flask
+Requires-Dist: flask-login
